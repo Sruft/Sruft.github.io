@@ -78,7 +78,7 @@
             <img class="thumbnail" src="https://placehold.it/650x350">
             <div class="grid-x grid-padding-x small-up-4">
               <div class="cell">
-                <img src="https://placehold.it/250x200">
+                <img src="https://www.pokemoncenter.com/images/DAMRoot/High/10004/P10460_100-10096_06.jpg">
               </div>
               <div class="cell">
                 <img src="https://placehold.it/250x200">
@@ -92,15 +92,15 @@
             </div>
           </div>
           <div class="medium-6 large-5 cell large-offset-1">
-            <h3>My Awesome Product</h3>
-            <p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in.</p>
+            <h3>Pokemon Booster Bundle</h3>
+            <p>Contains 6 booster packs, each with 10 cards, focusing on Eevee and its Evolutions as Stellar Tera Pokémon ex.</p>
     
-            <label>Size
+            <label>Quantity
             <select>
-              <option value="husker">Small</option>
-              <option value="starbuck">Medium</option>
-              <option value="hotdog">Large</option>
-              <option value="apollo">Yeti</option>
+              <option value="husker">prismatic</option>
+              <option value="starbuck">destined rivals</option>
+              <option value="hotdog">black bolt</option>
+              <option value="apollo">white flare</option>
             </select>
             </label>
     
